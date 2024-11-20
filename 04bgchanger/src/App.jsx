@@ -12,7 +12,7 @@ function App() {
     }}>
     <div className="grid place-content-center h-screen">
   <h1 className="text-white text-4xl shadow-2xl">Background Changer</h1>
-</div>
+</div>=
 
       <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2 ">
         <div className="flex flex-wrap justify-center gap-3 shadow-lg bg-white px-3 py-2 rounded-3xl order  border-2 border-black">
